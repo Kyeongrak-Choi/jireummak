@@ -8,7 +8,10 @@
 
 충동구매를 막아주는 72시간 보류 습관 앱
 
-[![Google Play](https://img.shields.io/badge/Google_Play-지름막-7C3AED?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pause72.jireummak&hl=ko)
+<a href="https://play.google.com/store/apps/details?id=com.pause72.jireummak&hl=ko">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png" height="60"/>
+</a>
+
 [![Release](https://img.shields.io/github/v/release/pause72/jireummak?style=for-the-badge&color=7C3AED)](https://github.com/pause72/jireummak/releases)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
 
